@@ -1,7 +1,7 @@
 # Online Appointment and Product management
 
-A laravel based system for online appointments and product management
-
+A laravel based system for online appointments and product management.
+Live - https://capstonesystem.infinityfreeapp.com/
 ## features
 
 -   User authentication
